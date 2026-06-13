@@ -20,7 +20,7 @@ public class AppTest {
 
         UiAutomator2Options options = new UiAutomator2Options()
                 .setDeviceName("Android")
-                .setUdid("1a50a4c40404")
+                .setUdid("Paste Udid anda yang di dapat dari perintah adb devices")
                 .setAutomationName("UiAutomator2")
                 .setApp(apkPath.getAbsolutePath())
                 .setNoReset(true);
