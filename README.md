@@ -46,6 +46,11 @@ appium-test/
   ```bash
   adb devices
   ```
+* Salin UDid Device Anda dan Paste di File AppTest.java
+  Di bagian
+  ```bash
+  .setUdid("1a50a4c40404")
+  ```
 
 ### 2. Menjalankan Appium Server (Terminal)
  ```bash
