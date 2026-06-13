@@ -49,7 +49,7 @@ appium-test/
 * Salin UDid Device Anda dan Paste di File AppTest.java
   Di bagian
   ```bash
-  .setUdid("1a50a4c40404")
+  .setUdid("paste dibagian ini")
   ```
 
 ### 2. Menjalankan Appium Server (Terminal)
