@@ -36,3 +36,29 @@ appium-test/
 │                   └── AppTest.java                  (Script Utama Java)
 ├── .gitignore
 └── pom.xml                                           (Library Dependencies)
+
+```
+## How to Start
+### 1. Persiapan Perangkat (Android)
+* Pastikan **Developer Options** dan **USB Debugging** pada HP Anda sudah aktif.
+* Aktifkan opsi **Install via USB** dan **USB Debugging (Security Settings)** agar injeksi input teks otomatis tidak diblokir oleh sistem keamanan HP.
+* Hubungkan HP ke laptop menggunakan kabel USB, buka terminal, lalu pastikan perangkat terdeteksi dengan mengetik:
+  ```bash
+  adb devices
+  ```
+
+### 2. Menjalankan Appium Server (Terminal)
+ ```bash
+  appium
+  ```
+
+### 3. Eksekusi Script Testing via Maven
+```bash
+mvn clean test -DforkCount=0
+```
+
+### 4. Menunggu Hingga Aplikasi Terinstall didevice
+* Pastika ketika ada notifikasi untuk menginstall maka pilih opsi "Allow"
+
+### 5. Log Sukses
+<img width="867" height="381" alt="image" src="https://github.com/user-attachments/assets/4066ae7b-c838-4da2-b437-816a0e14de7c" />
