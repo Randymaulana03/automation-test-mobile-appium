@@ -67,3 +67,10 @@ mvn clean test -DforkCount=0
 
 ### 5. Log Sukses
 <img width="867" height="381" alt="image" src="https://github.com/user-attachments/assets/4066ae7b-c838-4da2-b437-816a0e14de7c" />
+
+### Dokumentasi
+<img width="246" height="500" alt="WhatsApp Image 2026-06-14 at 3 48 24 AM" src="https://github.com/user-attachments/assets/7a56baf6-3d13-49ba-8b77-e688383fa9f2" />
+
+<img width="246" height="500" alt="WhatsApp Image 2026-06-14 at 3 48 23 AM (3)" src="https://github.com/user-attachments/assets/2db8294e-d1c0-4741-9ce1-2381a99f8a19" />
+
+<img width="246" height="500" alt="WhatsApp Image 2026-06-14 at 3 48 23 AM (1)" src="https://github.com/user-attachments/assets/005f84a7-e221-4060-a4c2-f55f45e0a284" />
